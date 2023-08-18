@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: shubhaseesh/github-profile-summary-cards@release
-        env: # default use ${{ secrets.repo }}, you can change to your personal access token
+        env: ${{ secrets.repo }}
           GITHUB_TOKEN: ${{ secrets.README }}
         with:
           USERNAME: ${{ github.repository_owner }}
