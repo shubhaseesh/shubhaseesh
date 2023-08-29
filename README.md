@@ -1,9 +1,9 @@
 # Hi 👋 My name is Shubhaseesh Kumar
 
 - 🌍  I'm based in Bengaluru (INDIA)
-- 🖥️  See my portfolio at [this](https://my-portfolio-pearl-one.vercel.app/)
+- 🖥️  See my portfolio [here](https://my-portfolio-pearl-one.vercel.app/)
 - ✉️  You can contact me at [shubhaseesh09@gmail.com](mailto:shubhaseesh09@gmail.com)
-- 🚀  I'm currently working on [Hasura](<http://(s)://github.com/>)
+- 🚀  I'm currently working on [GraphQL & Hasura](<http://(s)://github.com/>)
 - 🧠  I'm learning Backend development
 - 🤝  I'm open to collaborate
 
