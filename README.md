@@ -3,7 +3,7 @@
 - 🌍  I'm based in Bengaluru (INDIA)
 - 🖥️  See my portfolio [here](https://my-portfolio-pearl-one.vercel.app/)
 - ✉️  You can contact me at [shubhaseesh09@gmail.com](mailto:shubhaseesh09@gmail.com)
-- 🚀  I'm currently working on [GraphQL & Hasura](<http://(s)://github.com/>)
+- 🚀  I'm currently working on [GraphQL & Hasura](<https://hasura.io/docs/latest/getting-started/overview/>)
 - 🧠  I'm learning Backend development
 - 🤝  I'm open to collaborate
 
