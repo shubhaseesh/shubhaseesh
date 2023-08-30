@@ -35,11 +35,3 @@ src="https://img.shields.io/github/followers/shubhaseesh?logo=github&style=for-t
 <a href="http://www.github.com/shubhaseesh"><img src="https://github-readme-stats.vercel.app/api?username=shubhaseesh&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true&show_icons=true" alt="shubhaseesh's GitHub stats" /></a>
 
 <a href="http://www.github.com/shubhaseesh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhaseesh&stroke=ffffff&background=27272a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/shubhaseesh/DSA" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhaseesh&repo=DSA&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/shubhaseesh/support_desk" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhaseesh&repo=support_desk&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/shubhaseesh/open-ai" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhaseesh&repo=open-ai&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/shubhaseesh/github-finder" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhaseesh&repo=github-finder&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true&locale=en" /></a></div>
