@@ -7,7 +7,7 @@ Software Developer
 I am a software developer with an ambition to continue learning.
 
 * 🌍  I'm based in Bengaluru INDIA
-* 🖥️  See my portfolio at [this](http://my-portfolio-pearl-one.vercel.app/)
+* 🖥️  See my portfolio [here](http://my-portfolio-pearl-one.vercel.app/)
 * ✉️  You can contact me at [shubhaseesh09@gmail.com](mailto:shubhaseesh09@gmail.com)
 * 🚀  I'm currently working on [GraphQL & Hasura](http://(s)://hasura.io/docs/latest/getting-started/overview/)
 * 🧠  I'm learning Backend development
